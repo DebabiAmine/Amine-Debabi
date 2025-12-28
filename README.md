@@ -10,7 +10,7 @@ I design and deploy end-to-end data & AI solutions, from raw data to production.
 - API & ML deployment
 
 ### 🔹 Tech Stack
-Python | Snowflake | GCP | SQL | FastAPI | Machine-Learning | XGBoost | LLMs(IAGEN) | Power BI
+Python | Snowflake | GCP | SQL | FastAPI | ML - DL | XGBoost | (IAGEN)LLMs | Power BI
 
 ### 🔹 Featured Projects
 - 🏠 Real Estate Price Prediction Platform
